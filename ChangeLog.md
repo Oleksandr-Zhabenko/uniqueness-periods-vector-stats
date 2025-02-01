@@ -22,3 +22,16 @@ previous publications by the other authors. Added new functions and rewrite the 
 
 * Second version revised A. Fixed issue with being wrongly defined for the meanD and meanF functions.
 
+## 0.2.2.0 -- 2022-03-24
+
+* Second version revised B. Updated the dependency boundaries to support the latest GHC and Cabal versions.
+
+## 0.3.0.0 -- 2022-05-31
+
+* Third version. Fixed issues with population and sample dispersion evaluation, added for this new functions.
+
+## 0.4.0.0 -- 2023-01-24
+
+* Fourth version. Switched to the NoImplicitPrelude extension usage. Updated the dependencies
+  boundaries. Improved the error messages.
+
